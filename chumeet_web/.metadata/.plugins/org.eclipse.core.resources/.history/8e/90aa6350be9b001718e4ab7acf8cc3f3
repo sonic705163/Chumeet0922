@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="ChuMeet_Web">
-        <property name="context-root" value="ChuMeet_Web"/>
-    </wb-module>
-</project-modules>
